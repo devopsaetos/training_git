@@ -7,15 +7,4 @@ SQLAlchemy==2.0.32
 
 
 mahnoor1.1
-
-
-
-
-misbah1.1
-
-
-
-
-
-talal1.1
-
+mahnoor1.2
